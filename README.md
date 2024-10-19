@@ -19,13 +19,13 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://instagram.com/dilip_726" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=red" />
+    <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=Darkpink" />
 </div>
 
 <h2 align="center">🚀 "The Language of Code: My Learning Adventure" 🌟</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,github,vscode" />
 </div>
 
 <br/>
