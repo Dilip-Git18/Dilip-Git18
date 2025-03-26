@@ -25,7 +25,7 @@
 <h2 align="center">🚀 "The Language of Code: My Learning Adventure" 🌟</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,opencv,git,github,vscode" />
 </div>
 
 <br/>
